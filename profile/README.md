@@ -15,12 +15,12 @@
 
 ### Board of Directors
 
-|Title|Name|
-|-|-|
-|President|Thanh Khuat|
-|Vice President|Son Nguyen Hong|
-|Vice President|Dung Phung|
-|Vice President|Minh Le Dinh|
+|Title|Name|Responsibility|
+|-|-|-|
+|President|Thanh Khuat|Responsible for leading the club, developing strategic direction, and ensuring smooth coordination between departments. Representing the club in official events and external collaborations.|
+|Vice President|Son Nguyen Hong|Responsible for planning, coordinating activities, and internal management. Ensuring resources, venues, and materials are readily available for club programs.|
+|Vice President|Dung Phung|Oversee club activities, including workshops, training, and research. Ensure members are equipped with solid knowledge and practical blockchain skills.|
+|Vice President|Minh Le Dinh|Responsible for the club's communications, branding, and image. Building partnerships with external organizations and managing sponsorships to promote the club's growth.|
 
 ### Expert panel
 
